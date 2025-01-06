@@ -1,0 +1,10 @@
+D:\project_C#\QLTTCG\QLTTCG\bin\Debug\QLTTCG.exe.config
+D:\project_C#\QLTTCG\QLTTCG\bin\Debug\QLTTCG.exe
+D:\project_C#\QLTTCG\QLTTCG\bin\Debug\QLTTCG.pdb
+D:\project_C#\QLTTCG\QLTTCG\obj\Debug\QLTTCG.csproj.AssemblyReference.cache
+D:\project_C#\QLTTCG\QLTTCG\obj\Debug\QLTTCG.fFarm.resources
+D:\project_C#\QLTTCG\QLTTCG\obj\Debug\QLTTCG.fLogin.resources
+D:\project_C#\QLTTCG\QLTTCG\obj\Debug\QLTTCG.csproj.GenerateResource.cache
+D:\project_C#\QLTTCG\QLTTCG\obj\Debug\QLTTCG.csproj.CoreCompileInputs.cache
+D:\project_C#\QLTTCG\QLTTCG\obj\Debug\QLTTCG.exe
+D:\project_C#\QLTTCG\QLTTCG\obj\Debug\QLTTCG.pdb
